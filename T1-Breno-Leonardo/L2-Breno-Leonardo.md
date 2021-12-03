@@ -1,6 +1,6 @@
 # Caracterização de Linguagens de Programação
 
-## Linguagem de Programação: Java
+## Linguagem de Programação: JavaScript
 
   * [Apresentação e histórico](#apresentação-e-histórico)
    * [Características da Linguagem](#características-da-linguagem)
